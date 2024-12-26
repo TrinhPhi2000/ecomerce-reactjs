@@ -1,7 +1,13 @@
-import './App.css';
+import MyFooter from '@components/Footer/Footer';
+import MyHeader from '@components/Header/Header';
+import MainLayout from '@components/Layout/Layout';
 
 function App() {
-    return <div>Ecomerce</div>;
+    return (
+        <>
+            <MyHeader />
+        </>
+    );
 }
 
 export default App;
