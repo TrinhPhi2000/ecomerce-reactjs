@@ -1,5 +1,5 @@
 import TruckIcon from '@icons/svgs/truckIcon.svg';
-import CartIcon from '@icons/svgs/cartIcon.svg';
+import debitCardIcon from '@icons/svgs/debitCardIcon.svg';
 import BoxIcon from '@icons/svgs/boxIcon.svg';
 import ChatIcon from '@icons/svgs/chatIcon.svg';
 
@@ -12,7 +12,7 @@ export const dataInfo = [
     {
         title: '100% Safe Payments',
         description: '9 month installments',
-        src: CartIcon
+        src: debitCardIcon
     },
     {
         title: '14-Days Return',
